@@ -9,12 +9,11 @@ public class Oper {
 		System.out.println(i);
 		
 		int k = !(i > 0) ? 100 : 1000; 
-		System.out.println("k=" + k);
-		
-		i++; // i = i + 1
-//		i--; // i = i - 1 
-//		System.out.println(i);
+//		System.out.println("k=" + k);  
+		ㄴㅇㄹㅇㄴㄹ     
+		i++; // i = i + 1  
+//		i--; // i = i - 1  
+//		System.out.println(i); 
 
 	}
-
 }
